@@ -1,9 +1,9 @@
 
 const Jogos = () => {
   return (
-    <div>
+    <>
       
-    </div>
+    </>
   )
 }
 
